@@ -60,4 +60,4 @@ seaborn
 matplotlib
 scikeras
 Acknowledgments
-This project was developed as part of a customer churn prediction task. Feel free to adapt and extend it based on your specific requirements.
+This project was developed as part of a customer churn prediction task. This is the link to my video: https://drive.google.com/drive/u/0/folders/19UdGDSgm6t0FBEsBIEh7PHoNhUXuoLvT
